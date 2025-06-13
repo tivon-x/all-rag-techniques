@@ -1,3 +1,13 @@
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=de) | 
+[Español](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=es) | 
+[français](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=fr) | 
+[日本語](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=ja) | 
+[한국어](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=ko) | 
+[Português](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=pt) | 
+[Русский](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=ru) | 
+[中文](https://www.readme-i18n.com/FareedKhan-dev/all-rag-techniques?lang=zh)
+
 # All RAG Techniques: A Simpler, Hands-On Approach ✨
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Nebius AI](https://img.shields.io/badge/Nebius%20AI-API-brightgreen)](https://cloud.nebius.ai/services/llm-embedding) [![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)](https://openai.com/) [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@fareedkhandev/testing-every-rag-technique-to-find-the-best-094d166af27f)
